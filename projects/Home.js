@@ -107,9 +107,14 @@ const cardData=[
         link:"/Clock/clock.html", 
     },
     {
-        id:15,
+        id:16,
         title:"Shopping cart",
         link:"/shopping_cart/shoppingCart.html", 
+    },
+    {
+        id:17,
+        title:"Code Editor",
+        link:"/codeEditor/codeEditor.html", 
     },
 ]
 
